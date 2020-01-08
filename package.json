@@ -1,0 +1,17 @@
+{
+    "name": "test-ng",
+    "version": "0.0.0",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "private": true,
+    "dependencies": {
+        "express": "^4.16.3",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {},
+    "engines": {
+        "node": "8.11.4",
+        "npm": "5.6.0"
+    }
+}
